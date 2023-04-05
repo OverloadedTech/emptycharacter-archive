@@ -1,5 +1,7 @@
 # Empty Character Archive
 
+TODO: Add Screemshots on Empty Character Website
+
 This archive collect the old versions of the Empty Character APK's and lets you download freely
 If you want info on the latest app version, please reefer here: https://emptycharacterapp.web.app/
 Feel free to try what you want
