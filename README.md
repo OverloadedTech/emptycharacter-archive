@@ -51,5 +51,10 @@ en-US: Version 2.0.1
 - Improve app speed
 - Bug Fixing
 
-Version 2.0.2 (Current)
+Version 2.0.2
 en-US: Added Dark Theme
+
+Version 2.0.3
+en-US: Version 2.0.3
+- Corrected Theme
+- Added Official Website URL
