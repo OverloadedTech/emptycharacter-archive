@@ -61,3 +61,7 @@ Version 2.0.3
 en-US: Version 2.0.3
 - Corrected Theme
 - Added Official Website URL
+
+Version 2.1.1
+en-US: Version 2.1.1
+- Fix
