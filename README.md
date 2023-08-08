@@ -61,4 +61,10 @@ en-US: Version 2.0.3
 
 Version 2.1.1
 en-US: Version 2.1.1
-- Fix
+- Corrected Theme
+- Added Official Website URL
+
+Version 2.1.2
+en-US: Version 2.1.2
+- Corrected Theme
+- Added Official Website URL
