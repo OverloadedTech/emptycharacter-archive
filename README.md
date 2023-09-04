@@ -68,3 +68,7 @@ Version 2.1.2
 en-US: Version 2.1.2
 - Corrected Theme
 - Added Official Website URL
+
+Version 2.1.3
+en-US: Version 2.1.3
+- Updated SDK
