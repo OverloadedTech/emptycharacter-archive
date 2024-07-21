@@ -72,3 +72,7 @@ en-US: Version 2.1.2
 Version 2.1.3
 en-US: Version 2.1.3
 - Updated SDK
+
+Version 2.2.4
+en-US: Version 2.2.4
+- Updated App SDK for being complaint with Google's SDK Policy
